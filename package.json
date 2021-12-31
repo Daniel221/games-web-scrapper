@@ -1,0 +1,17 @@
+{
+  "name": "steam_web_scrapper",
+  "version": "1.0.0",
+  "description": "simple web scrapper for steam games",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Daniel Hernández N.",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.2",
+    "playwright": "^1.17.1"
+  }
+}
